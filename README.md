@@ -14,7 +14,6 @@ A real-time chat application built using the **MERN Stack** (MongoDB, Express.js
 - 🌐 Responsive Frontend with React
 
 ---
-
 ## 🛠️ Tech Stack
 
 **Frontend:**
